@@ -84,8 +84,8 @@ erDiagram
 
 ### 2. Clone Repository & Install Python Dependencies
 ```bash
-git clone https://github.com/naveen1232321/DNA_DBMS.git
-cd DNA_DBMS
+git clone https://github.com/naveen1232321/hashira-market-dbms.git
+cd hashira-market-dbms
 python -m pip install -r requirements.txt
 ```
 
